@@ -2,7 +2,7 @@
 
 > My Vue.js project
 
-![Settings Window](./src/assets/images/screencap1.png)
+![Settings Window](./src/assets/images/screencap1heroku logs --tail.png)
 
 ## Build Setup
 
