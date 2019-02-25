@@ -2,7 +2,7 @@
 
 > My Vue.js project
 
-![Settings Window](./src/assets/images/screencap1.png)
+![Settings Window](./src/assets/screencap1.png)
 
 ## Build Setup
 
