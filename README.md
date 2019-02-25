@@ -1,12 +1,12 @@
-# vue-cli
+# Vue.js Stickies
 
-> A Vue.js project
+> My Vue.js project
 
-![Settings Window](./src/images/home.png)
+![Settings Window](./src/assets/images/screencap1.png)
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
