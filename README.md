@@ -2,11 +2,7 @@
 
 > My Vue.js project
 
-<<<<<<< HEAD
-![Settings Window](./src/assets/images/screencap1heroku logs --tail.png)
-=======
 ![Settings Window](./src/assets/screencap1.png)
->>>>>>> 1f9f8618dfdf7a78e9f0cbdba5bc5d3e9d3f9f61
 
 ## Build Setup
 
